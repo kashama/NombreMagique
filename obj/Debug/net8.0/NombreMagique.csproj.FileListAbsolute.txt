@@ -1,0 +1,14 @@
+C:\Users\bijka\OneDrive\Desktop\projet_perso\NombreMagique\bin\Debug\net8.0\NombreMagique.exe
+C:\Users\bijka\OneDrive\Desktop\projet_perso\NombreMagique\bin\Debug\net8.0\NombreMagique.deps.json
+C:\Users\bijka\OneDrive\Desktop\projet_perso\NombreMagique\bin\Debug\net8.0\NombreMagique.runtimeconfig.json
+C:\Users\bijka\OneDrive\Desktop\projet_perso\NombreMagique\bin\Debug\net8.0\NombreMagique.dll
+C:\Users\bijka\OneDrive\Desktop\projet_perso\NombreMagique\bin\Debug\net8.0\NombreMagique.pdb
+C:\Users\bijka\OneDrive\Desktop\projet_perso\NombreMagique\obj\Debug\net8.0\NombreMagique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bijka\OneDrive\Desktop\projet_perso\NombreMagique\obj\Debug\net8.0\NombreMagique.AssemblyInfoInputs.cache
+C:\Users\bijka\OneDrive\Desktop\projet_perso\NombreMagique\obj\Debug\net8.0\NombreMagique.AssemblyInfo.cs
+C:\Users\bijka\OneDrive\Desktop\projet_perso\NombreMagique\obj\Debug\net8.0\NombreMagique.csproj.CoreCompileInputs.cache
+C:\Users\bijka\OneDrive\Desktop\projet_perso\NombreMagique\obj\Debug\net8.0\NombreMagique.dll
+C:\Users\bijka\OneDrive\Desktop\projet_perso\NombreMagique\obj\Debug\net8.0\refint\NombreMagique.dll
+C:\Users\bijka\OneDrive\Desktop\projet_perso\NombreMagique\obj\Debug\net8.0\NombreMagique.pdb
+C:\Users\bijka\OneDrive\Desktop\projet_perso\NombreMagique\obj\Debug\net8.0\NombreMagique.genruntimeconfig.cache
+C:\Users\bijka\OneDrive\Desktop\projet_perso\NombreMagique\obj\Debug\net8.0\ref\NombreMagique.dll
